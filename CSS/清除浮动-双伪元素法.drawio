@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T08:00:28.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" version="20.8.13" etag="h_SCnN1u5f_hApyxNiUi" type="github"><diagram name="第 1 页" id="yuvB6jCBVuaF8p40rI_S">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-01T08:10:22.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="Ch_U3b-qCsVIweMJScZr" version="20.8.13" type="github">
+  <diagram name="第 1 页" id="yuvB6jCBVuaF8p40rI_S">
+    <mxGraphModel dx="2214" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nuEIH2wRyYCtGI8E1tDT-2" value="清除浮动-双伪元素法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="264.80519480519484" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nuEIH2wRyYCtGI8E1tDT-4" value="" style="whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="170" width="850" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="nuEIH2wRyYCtGI8E1tDT-5" value="浮动盒1" style="whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="4.155844155844157" y="200" width="242.85714285714286" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nuEIH2wRyYCtGI8E1tDT-6" value="浮动盒2" style="whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="291.16883116883116" y="200" width="242.85714285714286" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nuEIH2wRyYCtGI8E1tDT-7" value="clear:both" style="whiteSpace=wrap;html=1;strokeColor=#b46504;fillColor=#fad7ac;container=0;" vertex="1" parent="1">
+          <mxGeometry x="578.1818181818182" y="200" width="187.66233766233768" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nuEIH2wRyYCtGI8E1tDT-8" value=".clearfix:before, .chearfix:after {&lt;br/&gt;	content: &quot;&quot;;&lt;br/&gt;	display: table;&lt;br/&gt;}&lt;br/&gt;.clearfix:after {&lt;br/&gt;	clear: both;&lt;br/&gt;}" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="224.81" y="510" width="180" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="nuEIH2wRyYCtGI8E1tDT-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309.81" y="630" as="sourcePoint" />
+            <mxPoint x="470" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuEIH2wRyYCtGI8E1tDT-10" value="转换为块级元素，并且在一行显示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="610" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
