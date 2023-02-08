@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T08:14:43.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" version="20.8.18" etag="vuVcckMvjxcGl2crkuMD" type="github"><diagram name="第 1 页" id="a7niHVfDImly9yBWPdPR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-08T08:24:09.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="wOJW9JEPm_sksWcjvSec" version="20.8.18" type="github">
+  <diagram name="第 1 页" id="a7niHVfDImly9yBWPdPR">
+    <mxGraphModel dx="1387" dy="834" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="boppUJXmSfX8MSRXAcFq-1" value="" style="whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="163" y="331" width="537" height="278" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-2" value="V8 引擎" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="187" y="357" width="116" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-3" value="Chrome 浏览器运行环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="163" y="294" width="148" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="331" y="365" width="324" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-5" value="DOM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="354" y="387" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-6" value="内置对象" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="514" y="387" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-7" value="BOM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="356" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-8" value="BOM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="511" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-9" value="待执行的 JS 代码" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="178" y="658" width="517" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.39;dx=21.88;notch=0;strokeColor=#6c8ebf;strokeWidth=1;rotation=-90;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="217" y="603.13" width="56" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.39;dx=21.88;notch=0;strokeColor=#d79b00;strokeWidth=1;rotation=90;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="465" y="603.13" width="56" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-12" value="" style="whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="755" y="331" width="537" height="278" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-13" value="V8 引擎" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="779" y="357" width="116" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-14" value="Node.js 运行环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="294" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="923" y="365" width="324" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-16" value="fs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="946" y="387" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-17" value="内置对象" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1106" y="387" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-18" value="path" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="948" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-19" value="其他API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-20" value="待执行的 JS 代码" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="770" y="658" width="517" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.39;dx=21.88;notch=0;strokeColor=#6c8ebf;strokeWidth=1;rotation=-90;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="809" y="603.13" width="56" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="boppUJXmSfX8MSRXAcFq-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.39;dx=21.88;notch=0;strokeColor=#d79b00;strokeWidth=1;rotation=90;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="603.13" width="56" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
