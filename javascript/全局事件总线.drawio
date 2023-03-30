@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T05:50:23.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="XHj2x-RQJDTudpWdMhyt" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T05:50:36.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="tds_VbmkJpIYOjhGC9uE" version="21.1.2" type="github">
   <diagram name="第 1 页" id="2UtZdCx69uSux1C0_EUT">
     <mxGraphModel dx="1377" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YVxBlMprubmVRSB1i5pX-50" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;div&gt;App、A、B、C、D、X 为 Vue 组件&lt;/div&gt;&lt;div&gt;X 为外部组件&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="730" width="730" height="150" as="geometry" />
+          <mxGeometry x="140" y="730" width="730" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
